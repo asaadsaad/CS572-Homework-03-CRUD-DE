@@ -1,4 +1,4 @@
-### CS572-Homework-02-CRUD
+### CS572-CRUD
 
 Given the following Schema:
 ```typescript
